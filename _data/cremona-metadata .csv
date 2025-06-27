@@ -1,3 +1,0 @@
-objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
-coll001,image/jpeg,test001.jpg,"Viale Trento e Trieste, 8",,10.01606369,45.14120483,,,,,,,,,,,,
-coll002,image/jpeg,test002.jpg,"This second row is just to show you how ""objectid"" and ""format"" should be filled. While you can choose the ids  for ""objectid"", ""format"" must always be ""image/jpeg"" or ""image/png"" (see CollectionBuilder documentation for complete tags). Remind that ""filename"" content must be the same of the files' names uploaded to ""objects"" folder",,,,,,,,,,,,,,,
